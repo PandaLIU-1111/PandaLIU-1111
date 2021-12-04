@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">
 
 ![PandaLIU-1111 github stats](https://github-readme-stats.vercel.app/api?username=PandaLIU-1111&show_icons=true)
