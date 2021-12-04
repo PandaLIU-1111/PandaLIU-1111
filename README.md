@@ -1,8 +1,11 @@
-<h1 align="center">
+# Hi there 👋
 
 ![PandaLIU-1111 github stats](https://github-readme-stats.vercel.app/api?username=PandaLIU-1111&show_icons=true)
 
-</h1>
+## Most Used Languages
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PandaLIU-1111&layout=compact&show_icons=true&theme=flat&hide_title=true)
+
 
 <!--
 **PandaLIU-1111/PandaLIU-1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
