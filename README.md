@@ -1,19 +1,17 @@
 # Hi there 👋
 
+![](https://github-readme-stats.vercel.app/api?username=PandaLIU-1111&show_icons=true)
+
+
 ## About
 
 My name is YueJian Liu，a PHP developer
   
 
-## More
+## Most Used Languages
 
 
-<div style='display: flex;align-items: left;'>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PandaLIU-1111&layout=compact&show_icons=true&theme=flat&hide_title=true" />
-  <img src="https://github-readme-stats.vercel.app/api?username=PandaLIU-1111&show_icons=true" />
-</div>
-  
- 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PandaLIU-1111&layout=compact&show_icons=true&theme=flat&hide_title=true)
 
 
 <!--
