@@ -1,7 +1,8 @@
 # Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api?username=PandaLIU-1111&show_icons=true)
-
+<div align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=PandaLIU-1111" />
+</div>
 
 ## About
 
@@ -13,6 +14,9 @@ I'm on the [hyperf](https://github.com/hyperf) development team
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PandaLIU-1111&layout=compact&show_icons=true&theme=flat&hide_title=true)
+
+
+<div align="center"><img src="https://raw.githubusercontent.com/PandaLIU-1111/PandaLIU-1111/main/assets/github-contribution-grid-snake.svg" ></div>
 
 
 <!--
